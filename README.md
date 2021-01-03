@@ -10,5 +10,6 @@ Some guides for doing certain things with GitHub and repl.it.
 
 To test the project:
 
-Run the test
-Check the results
+1. Run the test
+2. Check the results
+3. Submit test report
